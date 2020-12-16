@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover", "MarsRover\MarsRover.csproj", "{033069D7-7DA9-470C-A6D9-AB137ECA9950}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover.App", "MarsRover.App\MarsRover.App.csproj", "{033069D7-7DA9-470C-A6D9-AB137ECA9950}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
